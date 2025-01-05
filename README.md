@@ -16,6 +16,6 @@ Este projeto explora o uso de IAs generativas para criar um eBook sobre como as 
 ## 🚀 Resultados
 - Criamos um eBook informativo sobre o impacto das IAs no setor bancário, abordando benefícios, casos de uso e desafios.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Criar este eBook com a ajuda do GitHub Copilot foi uma experiência interessante. A precisão e a utilidade dos textos gerados mostram o potencial das IAs generativas na criação de conteúdo de alta qualidade.# ebook-ia-servicos-bancarios
 Um eBook sobre como as IAs podem melhorar a execução de serviços bancários
